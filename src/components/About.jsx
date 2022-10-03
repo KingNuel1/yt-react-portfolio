@@ -9,12 +9,13 @@ const About = () => {
             </div>
 
             <p className='text-xl mt-20'>
-                Lorem 
+                I'm quiet confident, naturally curious, and perpetually working on
+                improving my skills one design problem at a time.
             </p>
             <br />
-
             <p className='text-xl'>
-                Lorem 50
+                If I need to define myself in one sentence that would be a determined
+                person, a sports fanatic, nature enthusiast, and tech-obsessed!!!
             </p>
         </div>
     </div>
