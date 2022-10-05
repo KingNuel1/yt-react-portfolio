@@ -8,6 +8,7 @@ import graphql from '../assets/graphql.png';
 import tailwind from '../assets/tailwind.png';
 import python from '../assets/python.png';
 import java from '../assets/java.png';
+import rails from '../assets/rails.jpg';
 
 const Experience = () => {
 
@@ -64,7 +65,12 @@ const Experience = () => {
             src: python,
             title: 'Python',
             style: 'shadow-yellow-300'
-        }    
+        }, 
+        {   id: 10,
+            src: rails,
+            title: 'Ruby on Rails',
+            style: 'shadow-red-300'
+        }  
     ]
   return (
     <div name='experience' className='bg-gradient-to-b from-black to-gray-800 w-full text-white md:h-screen' >
